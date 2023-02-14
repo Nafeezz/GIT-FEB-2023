@@ -6,3 +6,6 @@ body{
     width: 100px;
     font-family: 'Courier New', Courier, monospace;
 }
+header  nav ul{
+    list-style: none;
+}
